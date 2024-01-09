@@ -5,7 +5,7 @@ Welcome to B-BallBuzz-Designs, your gateway to the visually electrifying world o
 ## Table of Contents
 
 1. [Demo](#demo)
-2. [Features](#features)
+2. [Pages](#Pages)
 
 <!-- Demo Section -->
 ## Demo
@@ -15,3 +15,16 @@ Welcome to B-BallBuzz-Designs, your gateway to the visually electrifying world o
 
 <!-- Features Section -->
 ## Features
+
+## Pages
+
+1. 🏠 **Home Page:**
+   Immerse in the dynamic world of B-Ball Buzz with our Home Page—where sleek animations and intuitive design provide a slam dunk introduction to the vibrant basketball community.
+
+2. 🔐 **Log In:**
+   Step onto the court with style! Our Log In page offers smooth transitions and captivating visuals, making access to exclusive features as seamless as a well-executed layup.
+
+3. ✍️ **Sign Up:**
+   Ready to join the B-Ball Buzz community? The Sign-Up page is your ticket to the game, featuring engaging animations that turn registration into a slam dunk experience.
+
+Explore the full project [here](https://www.figma.com/file/ylawlNAnk39AlFW9zpisgf/BasketBall?type=design&node-id=80%3A185&mode=design&t=wlTMyG7sy7ymzdLI-1) and witness the basketball magic unfold through design! 🚀🏀
