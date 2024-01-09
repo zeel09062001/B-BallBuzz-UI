@@ -27,4 +27,4 @@ Welcome to B-BallBuzz-Designs, your gateway to the visually electrifying world o
 3. ✍️ **Sign Up:**
    Ready to join the B-Ball Buzz community? The Sign-Up page is your ticket to the game, featuring engaging animations that turn registration into a slam dunk experience.
 
-Explore the full project [here](https://www.figma.com/file/ylawlNAnk39AlFW9zpisgf/BasketBall?type=design&node-id=80%3A185&mode=design&t=wlTMyG7sy7ymzdLI-1) and witness the basketball magic unfold through design! 🚀🏀
+Explore the full project [here](https://www.figma.com/file/ylawlNAnk39AlFW9zpisgf/BasketBall?type=design&node-id=0%3A1&mode=design&t=XhXh7doZYkyohTwd-1) and witness the basketball magic unfold through design! 🚀🏀
